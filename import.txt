@@ -1,0 +1,1 @@
+sudo apt-get install python3-venv && sudo apt-get install python3-pip && python3 -m venv venv && source venv/bin/activate && pip install selenium && wget https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-linux64.tar.gz 
